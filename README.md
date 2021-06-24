@@ -7,13 +7,13 @@
    A readMe generator that creates a custom readMe file made using Node.js.
 
   ## Table of Contents
-  *[Description](#description)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributing](#contribution)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contribution)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   1. Fork the repo 
@@ -39,5 +39,5 @@
   Email: khadra.m123@gmail.com
 
   ----
-  README was generated with ❤️ by [professional-readme-generator](https://github.com/khadram123/readme-generator.git)
+  This README was generated with ❤️ by [professional-readme-generator](https://github.com/khadram123/readme-generator.git)
   
