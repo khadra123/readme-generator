@@ -29,10 +29,10 @@ function generateMarkdown(answers) {
   
   ---
 
-  ##Description
+  ## Description
   ${answers.desciption}
 
-  ##Table of Contents
+  ## Table of Contents
   *[Description](#description)
   *[Installation](#installation)
   *[Usage](#usage)
@@ -41,21 +41,21 @@ function generateMarkdown(answers) {
   *[Tests](#tests)
   *[Questions](#questions)
 
-  ##Installation
+  ## Installation
   ${answers.installation}
 
-  ##Usage
+  ## Usage
   ${answers.usage}
 
-  ##Languages
+  ## Languages
   ${answers.languages}
 
-  ##License
+  ## License
   ${answers.license}
 
   [![License](https://img.shields.io/badge/License-${renderLicenseTrim(answers.license)}-${renderLicenseBadge(answers.license)[0]})](${renderLicenseBadge(answers.license)[1]})
   
-  ##Questions
+  ## Questions
   Reach me out on GitHub or email with any questions you have:
 
   Github Username: ${answers.githubUsername}
