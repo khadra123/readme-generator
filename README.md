@@ -39,5 +39,5 @@
   Email: khadra.m123@gmail.com
 
   ----
-  This README was generated with ❤️ by [professional-readme-generator](https://github.com/khadram123/readme-generator.git)
+  This README was generated with ❤️ by [professional-readme-generator](https://github.com/khadra123/readme-generator)
   
