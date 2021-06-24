@@ -33,13 +33,13 @@ function generateMarkdown(answers) {
   ${answers.desciption}
 
   ## Table of Contents
-  *[Description](#description)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributing](#contribution)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contribution)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   ${answers.installation}
