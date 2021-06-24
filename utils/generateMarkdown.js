@@ -63,7 +63,7 @@ function generateMarkdown(answers) {
   Email: ${answers.email}
 
   ----
-  README was generated with ❤️ by [professional-readme-generator](https://github.com/khadram123/readme-generator.git)
+  README was generated with ❤️ by [professional-readme-generator](https://github.com/khadra123/readme-generator)
   `;
 }
 
