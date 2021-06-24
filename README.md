@@ -3,12 +3,10 @@
   
   ---
 
-  ##_Description_
-  
+  ## Description
    A readMe generator that creates a custom readMe file made using Node.js.
 
-  ##_Table of Contents_
-  
+  ## Table of Contents
   *[Description](#description)
   *[Installation](#installation)
   *[Usage](#usage)
@@ -17,23 +15,23 @@
   *[Tests](#tests)
   *[Questions](#questions)
 
-  ##_Installation_
-  
-  1. Fork the repo 2. Clone the repo to your local repo 3. Run npm -i to install dependencies
+  ## Installation
+  1. Fork the repo 
+  2. Clone the repo to your local repo 
+  3. Run npm -i to install dependencies
 
-  ##_Usage_
-  
+  ## Usage
   Make sure that you have Node downloaded to your local repo then install the dependencies. Once completed answer the questions prompted, then you'll receive a generated readme file in the readme.md.
 
-  ##_Languages_
+  ## Languages
   JavaScript,Node
 
-  ##_License_
+  ## License
   MIT
 
   [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
   
-  ##_Questions_
+  ## Questions
   Reach me out on GitHub or email with any questions you have:
 
   Github Username: khadra
